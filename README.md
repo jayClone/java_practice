@@ -1,2 +1,2 @@
 # web_project
-just simple web project repo
+just simple java practice repo
